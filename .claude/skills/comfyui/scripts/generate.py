@@ -5,8 +5,8 @@ import sys, json, random, time, os
 import urllib.request, urllib.error
 
 # === 設定 ===================================================
-COMFYUI_URL = "http://comfy.lab"  # あなたのComfyUIのアドレスに変更
-OUTPUT_DIR = "/tmp/comfyui_generated"
+COMFYUI_URL = "http://127.0.0.1:8188"  # あなたのComfyUIのアドレスに変更
+OUTPUT_DIR = os.path.join(os.path.expanduser("~"), "comfyui_generated")
 
 STYLE_PROMPT = "masterpiece, best quality, amazing quality, official art"
 NEG_PROMPT = "bad quality, worst quality, bad anatomy, watermark"
