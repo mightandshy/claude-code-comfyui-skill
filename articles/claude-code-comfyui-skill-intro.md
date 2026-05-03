@@ -3,7 +3,7 @@ title: "Claude Codeの「Skill」で、自宅GPUサーバーからAIキャラ画
 emoji: "🎨"
 type: "tech"
 topics: ["claudecode", "comfyui", "生成ai", "python", "zenn"]
-published: false
+published: true
 ---
 
 ![Claude Code × ComfyUI Skillのアイキャッチ](/images/claude-code-comfyui-skill/image_comfyui_ai_eyecatch.png)
