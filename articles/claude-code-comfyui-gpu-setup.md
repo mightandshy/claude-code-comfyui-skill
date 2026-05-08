@@ -457,9 +457,8 @@ ComfyUI が起動しただけでは、まだ「画像生成できる箱」です
 次回はその箱に、どのモデルを入れるのか、LoRA をどこから探すのか、そして Civitai Red を標準導線にしない理由も軽く見ます。
 技術記事です。技術記事のはずです。
 
-> [第3回: SDXLモデル＆civitaiでLoRAを探す →](https://miraclest.com/)
+> 第3回: SDXLモデル＆civitaiでLoRAを探す（準備中）
 
 ---
 
-*この記事は [miraclest.com](https://miraclest.com/) ブログシリーズの一部です。*
 *[第1回（Zenn）](https://zenn.dev/miraclest/articles/claude-code-comfyui-skill-intro) から読むと全体像が掴めます。*
